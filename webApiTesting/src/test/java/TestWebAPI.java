@@ -7,7 +7,7 @@ import org.junit.runners.MethodSorters;
 
 import java.io.*;
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
-public class TestApi {
+public class TestWebAPI {
 
     private static final String ACCESS_TOKEN = "k22xIkOEk4UAAAAAAAAAAQGnV7_UHGw6QPS6c49018sc7SeM3fSdgjytRrq0HVff";
 
